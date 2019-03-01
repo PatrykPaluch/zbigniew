@@ -1,0 +1,11 @@
+{
+  "name": "zbigniew",
+  "version": "0.0.1",
+  "description": "Simple exp/lvl Discord bot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Patryk Paluch",
+  "license": "MIT"
+}
